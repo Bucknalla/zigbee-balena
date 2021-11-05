@@ -1,2 +1,2 @@
-# zigbee-block
-Zigbee Coordinator and Firmware Management balenablock
+# zigbee-fleet
+Zigbee Coordinator and Firmware Management Fleet
